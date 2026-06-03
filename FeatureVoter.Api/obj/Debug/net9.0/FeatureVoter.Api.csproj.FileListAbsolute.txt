@@ -128,3 +128,4 @@
 /home/banele/Documents/projects/feature-voter/FeatureVoter.Api/obj/Debug/net9.0/FeatureVoter.Api.pdb
 /home/banele/Documents/projects/feature-voter/FeatureVoter.Api/obj/Debug/net9.0/FeatureVoter.Api.genruntimeconfig.cache
 /home/banele/Documents/projects/feature-voter/FeatureVoter.Api/obj/Debug/net9.0/ref/FeatureVoter.Api.dll
+/home/banele/Documents/projects/feature-voter/FeatureVoter.Api/obj/Debug/net9.0/FeatureVoter.Api.sourcelink.json

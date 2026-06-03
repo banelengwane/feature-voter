@@ -14,7 +14,7 @@ export default function FeatureForm({ onFeatureAdded }) {
     };
 
     return (
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} className="feature-form">
             <h3>Suggest a Feature</h3>
             <input 
                 type="text"
