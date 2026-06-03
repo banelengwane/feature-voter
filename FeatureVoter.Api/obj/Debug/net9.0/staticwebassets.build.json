@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1nG7FFUQwcoPgQeS0kNXrZndYBrPDmJW96/SiOMzzbw=",
+  "Source": "FeatureVoter.Api",
+  "BasePath": "_content/FeatureVoter.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
